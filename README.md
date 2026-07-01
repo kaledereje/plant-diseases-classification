@@ -3,7 +3,7 @@
 
 ## 🌿 Project Overview
 
-This project presents a comprehensive, full-stack deep learning solution for classifying plant diseases. Using a computer vision model trained on a dataset of leaf images, the system can distinguish between "Healthy" and "Diseased" plants. The solution is built for practical, real-world application, featuring a backend API for inference and a mobile application for easy use in the field.
+This project presents a comprehensive, full-stack deep learning solution for classifying plant diseases. Using a computer vision model trained on a dataset of leaf images, the system can distinguish between "Healthy" and "Diseased" plants. The solution is built for practical, real-world application, featuring a backend API for inference and a mobile application for easy use in the field
 
 The primary goal is to provide a fast and accessible tool for farmers and agricultural workers to perform quick plant health triage, helping to mitigate crop loss and support sustainable agriculture.
 
